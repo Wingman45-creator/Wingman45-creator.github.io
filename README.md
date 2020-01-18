@@ -1,4 +1,3 @@
-# Games
 <!DOCTYPE html>
 <html>
 	<link href="https://fonts.googleapis.com/css?family=Lora&display=swap" rel="stylesheet">
